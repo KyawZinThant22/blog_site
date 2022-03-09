@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure quam sed impedit, cum facere voluptatum, quos facilis vero iusto eum ut, culpa voluptates eaque temporibus nihil aliquid consectetur assumenda commodi.",
+      "author": "Kyaw Zin Thant",
+      "img": "https://images.unsplash.com/photo-1646667061864-55815a43fb71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "id": 4
+    },
+    {
+      "title": "Ko Thone Nya is back ",
+      "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1529&q=80",
+      "body": "He has been lazing since half month of feb due to omicorn . even if he recover back he didnt go for his work and being an otaku for a month which is wasted time alot . He is currently learning react now he is trying to get back on his track. see ya guys I will back with big one .",
+      "author": "kyaw zin thant",
+      "id": 6
+    }
+  ]
+}
